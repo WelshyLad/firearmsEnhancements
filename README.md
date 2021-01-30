@@ -1,3 +1,3 @@
 # Firearms Enhancements 
 
-<h2>__Introduction__
+__This will also be bold__
