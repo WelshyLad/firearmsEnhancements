@@ -1,3 +1,3 @@
 # Firearms Enhancements 
 
-<h2>[u]Introduction__
+<h2>__Introduction__
